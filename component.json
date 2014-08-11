@@ -1,0 +1,10 @@
+{
+  "name": "checklist-model",
+  "main": "checklist-model.js",
+  "dependencies": {
+      "jhc-systems/angular": "1.2.21"
+  },
+  "scripts": [
+      "checklist-model.js"
+  ]
+}
