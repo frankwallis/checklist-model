@@ -2,7 +2,7 @@
   "name": "./checklist-model",
   "main": "./checklist-model.js",
   "dependencies": {
-      "jhc-systems/angular": "1.2.21"
+      "jhc-systems/angular": "*"
   },
   "scripts": [
       "checklist-model.js"
